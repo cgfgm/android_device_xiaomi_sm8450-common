@@ -1,3 +1,0 @@
-# SPDX-License-Identifier: Apache-2.0
-binder_call(hal_lineage_powershare_client, hal_lineage_powershare_server)
-hal_attribute_service(hal_lineage_powershare, hal_lineage_powershare_service)

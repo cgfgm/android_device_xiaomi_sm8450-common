@@ -1,4 +1,0 @@
-# SPDX-License-Identifier: Apache-2.0
-# Miku supplies the touch attributes, server domain and HIDL rules already.
-# Extend those existing domains for the AIDL implementation used by this tree.
-hal_attribute_service(hal_lineage_touch, hal_lineage_touch_service)
